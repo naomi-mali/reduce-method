@@ -38,6 +38,11 @@ const teamMembers = [
     yrsExperience: 1
   },
   {
+    name: 'Man',
+    profession: 'manager',
+    yrsExperience: 31
+  },
+  {
     name: 'Kelly',
     profession: 'Designer',
     yrsExperience: 3
